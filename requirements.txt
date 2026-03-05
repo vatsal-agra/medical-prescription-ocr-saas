@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+haystack-ai
+farm-haystack[inference]
+transformers
+torch
+Pillow
+sqlalchemy
+faiss-cpu
+python-dotenv
